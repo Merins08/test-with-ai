@@ -1,0 +1,27 @@
+Conventional commits --> ?
+
+File CSV cos'è --> ?
+
+Si lavora pe i soldi 
+Azienda abbiamo:
+
+Frontend --> interagiscono con il cliente -->(sales-> il venditore dei prodotti, business Analyst --> deve conoscere il ciclo di vita di fattura ecc.., technical Analyst --> dice cosa serve per risolvere il problema/prodotto che viene chiesto dal cliente, customer success Cs)
+
+Backend --> interagiscono meno con il cliente --> (Amministrazione, Sviluppatori, Cs Supporter)
+
+Dobbiamo tradurre da cosa vuole il cliente a cosa noi possiamo andare a creare --> attraverso delle specifiche di disegno, costruzione --> dopo abbiamo il collaudo --> stiamo facendo quello che voleva il cliente, affidabile, funziona
+
+Sta tornando la command line
+
+3 sistemi --> randomUser.me, mantisBT (https://taiko.mantishub.io) --> serve per fare test, pagina elenco editabile
+
+Quali test andare a realizzare?
+1) Test pensati da noi
+2) usare copilot per capire cosa fare --> cosa alimenta copilot 
+3) playwright
+4) sviluppo manuale
+5) sviluppo con ai
+
+Testi scritti in .txt / .md 
+
+spectstory --> seve per andarmi a salvare le chat dentro la mia repository
