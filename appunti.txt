@@ -25,3 +25,5 @@ Quali test andare a realizzare?
 Testi scritti in .txt / .md 
 
 spectstory --> seve per andarmi a salvare le chat dentro la mia repository
+
+Come funziona playwright

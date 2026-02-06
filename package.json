@@ -1,0 +1,23 @@
+{
+  "name": "test-with-ai",
+  "version": "1.0.0",
+  "description": "Test RandomUser.me",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merins08/test-with-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Merins08/test-with-ai/issues"
+  },
+  "homepage": "https://github.com/Merins08/test-with-ai#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.2.1"
+  }
+}
