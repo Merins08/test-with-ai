@@ -77,3 +77,12 @@ Risultato atteso:
 - Il filtro female restituisce solo utenti femmine.
 - Il filtro all restituisce utenti misti.
 - Non è possibile selezionare più generi contemporaneamente (radio button → scelta esclusiva).
+
+
+
+test login
+TC_LOGIN_01 - Login con credenziali valide (administrator/root)
+TC_LOGIN_02 - Login con credenziali invalide
+TC_LOGIN_03 - Validazione campo username vuoto
+TC_LOGIN_04 - Validazione campo password vuoto
+TC_LOGIN_05 - Verifica che il form di login sia presente e visibile
