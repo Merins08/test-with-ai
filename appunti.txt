@@ -27,3 +27,5 @@ Testi scritti in .txt / .md
 spectstory --> seve per andarmi a salvare le chat dentro la mia repository
 
 Come funziona playwright
+
+Come lanciare i test --> npx playwright test
